@@ -1,4 +1,4 @@
 # apnaCollege-demo
 this is my first git repository.
 <br>
-Author - Gursirat kaur
+Author - Gursirat kaur(sidhu)
